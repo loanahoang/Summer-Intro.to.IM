@@ -2,4 +2,5 @@ First Assignment
 
 Photo uploading:
 
-![]IMG_7258.jpg
+![]IMG_7258.HEIC
+
