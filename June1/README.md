@@ -2,4 +2,4 @@ First Assignment
 
 Photo uploading:
 
-![]loan
+![]IMG_7258.jpg
