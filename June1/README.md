@@ -1,6 +1,4 @@
-First Assignment 
+First Assignment: selfportrait with Processing 
 
-Photo uploading:
 
-![](IMG_7258.HEIC)
 
