@@ -1,4 +1,4 @@
 First Assignment: selfportrait with Processing 
 
-![](images/IM June 1.png)
+![](Images/IM%20June%201.png)
 
