@@ -1,4 +1,4 @@
-First Assignment: selfportrait with Processing 
+#First Assignment: selfportrait with Processing 
 
 The heart shape was just me following some tutorials online although I still cannot fully understand the code :((
 
