@@ -6,10 +6,14 @@
 
 - Simple draw the the game components in a straightfoward way 
 
+
 ![](101652702_2671428386452223_8658941655451172864_n.jpg)
 
 
 ## Complete stage: 
+Video: https://drive.google.com/file/d/1sUpijJ5z3VEDXlwEhLqVeZ9QDrfaeFS3/view?usp=sharing
+
+
 ![](Screen%20Shot%202020-06-03%20at%209.47.19%20AM.png)
 
 ## Challenge: 
