@@ -18,6 +18,6 @@
 
 - Coming up with the "reset" function to renew the the bullet and the block's position 
 
-## Future Imporoment: 
+## Future Improvement: 
 
 - Make it more colorful :))
