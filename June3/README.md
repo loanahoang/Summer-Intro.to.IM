@@ -6,4 +6,4 @@
 
 - Simple draw the the game components in a straightfoward way 
 
-![]()
+![](101652702_2671428386452223_8658941655451172864_n.jpg)
