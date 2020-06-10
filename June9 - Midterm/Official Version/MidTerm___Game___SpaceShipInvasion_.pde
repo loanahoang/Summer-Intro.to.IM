@@ -1,3 +1,8 @@
+// Loan Hoang _ Intro to Interactive Media Summer 2020 _ Mid-term Project
+// Mini Game: Space Ship Invasion 
+// June 10 
+
+
 import processing.sound.*;
 SoundFile file; 
 
@@ -44,7 +49,7 @@ void draw() {
       stars[i].draw_text();
     }
   } else {
-    image(galaxy, -600, 0);
+    image(galaxy, -600, 0);    // Background for the play screen 
     MyBoard.display();
     MyBullet.display();
     MyBlock.display();
