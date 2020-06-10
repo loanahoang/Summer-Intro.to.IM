@@ -1,5 +1,6 @@
 PImage spaceship; 
 PImage alienship; 
+PImage galaxy;
 
 int HEIGHT = 600;
 int WIDTH = 600;
@@ -8,14 +9,6 @@ float board_height = 200;
 int circle_size = 20;
 float block_size = 100;
 int bullet_speed = 8;
-
-/*
-void setup() {
-  size(800, 800);
-  spaceship = loadImage("spaceship.png");
-  alienship = loadImage("alienship2.png");
-}
-*/
 
 
 class Board {
