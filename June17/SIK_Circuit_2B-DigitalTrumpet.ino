@@ -35,10 +35,10 @@ void loop() {
     tone(buzzerPin, 262);                     //play the frequency for c
   }
   else if (digitalRead(secondKeyPin) == LOW) { //if the second key is pressed
-    tone(buzzerPin, 392);                     //play the frequency for e
+    tone(buzzerPin, 392);                     //play the frequency for g
   }
   else if (digitalRead(thirdKeyPin) == LOW) { //if the third key is pressed
-    tone(buzzerPin, 440);                     //play the frequency for g
+    tone(buzzerPin, 440);                     //play the frequency for 
   }
   else {
     noTone(buzzerPin);                        //if no key is pressed turn the buzzer off
