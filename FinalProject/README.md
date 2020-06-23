@@ -9,7 +9,7 @@ Improving Space Ship Invasion (midterm project) by changing the interaction with
 ### Input:
  - Yellow push button: Going left 
  - Red push button: Going right 
- - Blue push button: Shoot the bullet from teh spaceship
+ - Blue push button: Shoot the bullet from the spaceship
  - Green push button: Restart the game 
  
  ### Output:
