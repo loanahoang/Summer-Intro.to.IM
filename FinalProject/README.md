@@ -16,6 +16,10 @@ Improving Space Ship Invasion (midterm project) by changing the interaction with
 - Motion on Processing 
 
 ## Media:
+
+Video: https://www.youtube.com/watch?v=TL92toz45io&feature=youtu.be&fbclid=IwAR2wjIKPSh0cKcem9BdzbX6Oh3BrMEFw_nkFpFOGW28rbibzfFinEH3lvLQ
+
+
 ![](schematic1.jpg)
 
 ![](105846841_607422366862777_4387858964236092607_n.jpg)
