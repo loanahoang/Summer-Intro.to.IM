@@ -1,5 +1,5 @@
 ## Concepts: 
-- LED changing color and brightness with photoresitor an potentiometer
+- LED changing color and brightness with photoresitor and potentiometer
 
 
 ## Difficulties: 
