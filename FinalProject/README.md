@@ -15,6 +15,8 @@ Improving Space Ship Invasion (midterm project) by changing the interaction with
 
 ## Media:
 ![](schematic.jpg)
+
+![](105846841_607422366862777_4387858964236092607_n.jpg)
 ## Difficulties: 
 
 - Understanding the speed of the ship because the computer redraw very fast 
