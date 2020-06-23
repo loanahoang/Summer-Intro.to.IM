@@ -13,4 +13,9 @@ Improving Space Ship Invasion (midterm project) by changing the interaction with
  ### Output:
 - Motion on Processing 
 
-## Demonstration Video
+## Demonstration Video:
+
+## Difficulties: 
+
+- Understanding the speed of the ship because the computer redraw very fast 
+- Communication between Arduino and Processing 
