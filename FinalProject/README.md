@@ -1,3 +1,5 @@
+# Introduction to Interactive Media | Final Project 
+
 ## Concepts:
 Improving Space Ship Invasion (midterm project) by changing the interaction with game via physical button on Arduino instead of using the mouse like before
 
