@@ -14,7 +14,7 @@ Improving Space Ship Invasion (midterm project) by changing the interaction with
 - Motion on Processing 
 
 ## Media:
-
+![](schematic.jpg)
 ## Difficulties: 
 
 - Understanding the speed of the ship because the computer redraw very fast 
