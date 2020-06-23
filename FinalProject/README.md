@@ -13,7 +13,7 @@ Improving Space Ship Invasion (midterm project) by changing the interaction with
  ### Output:
 - Motion on Processing 
 
-## Demonstration Video:
+## Media:
 
 ## Difficulties: 
 
