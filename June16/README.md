@@ -7,6 +7,6 @@
 
 ## Media: 
 
-https://drive.google.com/file/d/1X1OvM2X2zlzSq5HtuJPO9urKw1u10Hyg/view?usp=sharing
+https://drive.google.com/drive/folders/1HMRauQ7tRdks4WrWXgzv_C6iqbXwKfjo?usp=sharing
 
 ![](105276427_575138230041207_6726940493109355978_n.jpg) 
