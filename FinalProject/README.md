@@ -1,1 +1,16 @@
-I am thinking of improving my midterm into a 2-player game using push button instead of the mouse and 1-player at before (Space Ship Invasion).
+## Concepts:
+Improving Space Ship Invasion (midterm project) by changing the interaction with game via physical button on Arduino instead of using the mouse like before
+
+
+## Details:
+
+### Input:
+ - Yellow push button: Going left 
+ - Red push button: Going right 
+ - Blue push button: Shoot the bullet from teh spaceship
+ - Green push button: Restart the game 
+ 
+ ### Output:
+- Motion on Processing 
+
+## Demonstration Video
