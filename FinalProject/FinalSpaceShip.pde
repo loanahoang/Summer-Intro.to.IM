@@ -1,3 +1,11 @@
+// Loan Hoang - Introduction to Interactive Media - Final Project 
+// Space Ship Invasion controled by push button on Arduino
+
+/* Resources used: 
+Starfield by Dann Shiffman: https://www.youtube.com/watch?v=17WoOqgXsRM&t=2s
+*/
+
+
 import processing.serial.*;
 Serial myPort;
 
@@ -5,8 +13,8 @@ import processing.sound.*;
 SoundFile file; 
 
 
-// Array of stars
-Star[] stars = new Star[400];
+
+Star[] stars = new Star[400];                  // Array of stars
 int rect_w = 70;
 int rect_h = 30;
 
@@ -24,13 +32,13 @@ void setup() {
   stroke(255);
   strokeWeight(5);
 
-  // Init all stars
-  for (int i=0; i<stars.length; i++) 
+  
+  for (int i=0; i<stars.length; i++)            // Init all stars
     stars[i] = new Star();
 
 
-  //Opening music
-  file = new SoundFile(this, "Night-Winds.mp3");
+  
+  file = new SoundFile(this, "Night-Winds.mp3"); //Opening music
   file.play();
   
   myPort = new Serial (this, Serial.list()[5], 9600);
@@ -61,7 +69,7 @@ void draw() {
 
 
 class Star {
-  // Star coordinates in 3D
+                                               // Star coordinates in 3D
   float x;
   float y;
   float z;
@@ -73,8 +81,8 @@ class Star {
   }
 
   void update() {
-    z-=10;        // Move star closer to viewport
-    if (z <= 0.0) // Reset star if it passes viewport
+    z-=10;                                    // Move star closer to viewport
+    if (z <= 0.0)                             // Reset star if it passes viewport
       reset();
   }
 
@@ -87,13 +95,13 @@ class Star {
 
   void draw() {
 
-    // Project star only viewport
+                                             // Project star only viewport
     float offsetX = 100.0*(x/z);
     float offsetY = 100.0*(y/z);
     float scaleZ = 0.0001*(2000.0-z);
 
 
-    // Draw this star
+                                            // Draw this star
     pushMatrix();
     translate(offsetX, offsetY);
     scale(scaleZ);
