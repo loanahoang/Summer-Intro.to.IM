@@ -17,8 +17,8 @@ int input;
 
 void setup() {
   size(600, 600);
-  spaceship = loadImage("spaceship.png");
-  alienship = loadImage("alienship2.png");
+  spaceship = loadImage("spaceship.png");       // load image for the space ship
+  alienship = loadImage("alienship2.png");      // load image for the alien ship
   galaxy = loadImage("Galaxy.jpg");
   smooth();
   stroke(255);
@@ -40,20 +40,18 @@ void setup() {
 }
 
 void draw() {
+  if (start == false) {                          //if the game has not started yet (the player has not yet pressed the button Start)
 
-  background(0);
-  if (start == false) { //if the game has not started yet (the player has not yet pressed the button Start)
+    
+    translate(0.5*width, 0.5*height);           // Draw all stars wrt center of screen
 
-    // Draw all stars wrt center of screen
-    translate(0.5*width, 0.5*height);
-
-    // Update and draw all stars
-    for (int i=0; i<stars.length; i++) {
+    
+    for (int i=0; i<stars.length; i++) {        // Update and draw all stars
       stars[i].update();
       stars[i].draw();
       stars[i].draw_text();
     }
-  } else { //if the game has started (the player has pressed the button Start)
+  } else {                                      //if the game has started (the player has pressed the button Start), change the screen 
     image(galaxy, -600, 0); // Background for the play screen
     MyBoard.display();
     MyBullet.display();
@@ -130,32 +128,26 @@ class Star {
   }
 }
 
-void mousePressed() {
-  if (mouseX >= (WIDTH-70)/2 && mouseX <= (WIDTH+70)/2 && mouseY >= (HEIGHT)/2 && mouseY <= (HEIGHT)/2+ 50) {
-    start = true;
-  }
-}
-
-void serialEvent(Serial myPort){
+void serialEvent(Serial myPort){                         // control the ship with push buttons
   String inString = myPort.readStringUntil('\n');
   if (inString != null){
     inString = trim(inString);
     input = int(inString);
-    if (input == 1){
+    if (input == 1){                                    // button1: ship goes left 
       MyBoard.x += 1;
       MyBullet.x += 1;
       println(input);
     }
-    else if (input == 2){
+    else if (input == 2){                               // button2: ship goes right 
       MyBoard.x -= 1;
       MyBullet.x -= 1;
       println(input);
     }
-    else if (input == 3){
+    else if (input == 3){                               // button3: ship shoots the bullet 
       MyBullet.shot = true;
       println(input);
     }
-    else if (input == 4){
+    else if (input == 4){                               // button4: restart the game
       start = false;
     }
   }
