@@ -29,6 +29,10 @@ I have organized the button direction suitable for the piano's hand position.
 
 ## Media: 
 
+Video: https://www.youtube.com/watch?v=0U2wVNKgt1Y
+
+![](RealPiano.png)
+
 Keyboard pressed when a note is played on Arduino: 
 
 
