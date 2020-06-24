@@ -20,6 +20,9 @@ I have organized the button direction suitable for the piano's hand position.
 - Button 4: Si 
 - Button Si & potentionmeter: Si# = Do 
 
+### Output:
+- B
+
 ## Media: 
 
 ![](104884724_3115256061853395_836413844354909050_n.jpg)
