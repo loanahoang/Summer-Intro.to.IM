@@ -25,6 +25,8 @@ I have organized the button direction suitable for the piano's hand position.
 
 ## Media: 
 
+Video: https://www.youtube.com/watch?v=2oouv_yLE9w
+
 ![](104884724_3115256061853395_836413844354909050_n.jpg)
 
 ## Dificulties:
