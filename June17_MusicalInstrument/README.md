@@ -22,6 +22,8 @@ I have organized the button direction suitable for the piano's hand position.
 
 ## Media: 
 
+!](104884724_3115256061853395_836413844354909050_n.jpg)
+
 ## Dificulties:
 One of the difficulties that I encountered is reading the potentiometer in order to make the black notes on the keyboard (Do#, Re#, ...) because 4 push buttons is not enough to create 14 notes. 
 
