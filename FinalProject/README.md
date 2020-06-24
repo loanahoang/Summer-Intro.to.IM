@@ -24,6 +24,7 @@ Video: https://www.youtube.com/watch?v=TL92toz45io&feature=youtu.be&fbclid=IwAR2
 
 ![](105846841_607422366862777_4387858964236092607_n.jpg)
 ## Difficulties: 
-
-- Understanding the speed of the ship because the computer redraw very fast 
 - Communication between Arduino and Processing 
+- Understanding the speed of the ship 
+- When Processing read data from Arduino directly, the result was not like I expected. If read directly, my ship will moving left or right forever depsite not pressing the buttons. So I had to think of creating a boolean so that the ship only does action when button pressed
+
