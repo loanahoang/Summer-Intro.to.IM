@@ -18,7 +18,7 @@ I have organized the button direction suitable for the piano's hand position.
 - Button 3 & 4: La
 - Button 3 & 4 & potentiometer: La
 - Button 4: Si 
-- Button Si & potentionmeter: Si# = Do 
+- Button 4 & potentionmeter: Si# = Do 
 
 ### Output:
 - Buzzer
