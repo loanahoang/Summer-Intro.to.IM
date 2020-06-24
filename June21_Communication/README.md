@@ -28,6 +28,8 @@ I have organized the button direction suitable for the piano's hand position.
 - Screen 
 
 ## Media: 
+Keyboard pressed when a note is played on Arduino: 
+![](105516867_2654131164828989_1489226824288474011_n.jpg)
 Circuit is the same as before: 
 ![](104884724_3115256061853395_836413844354909050_n.jpg)
 
