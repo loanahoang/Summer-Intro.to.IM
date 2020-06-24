@@ -22,7 +22,7 @@ At first, I wanted to upgrade my initial game as a 1-player interaction with the
 
 ## Media:
 
-Video: https://www.youtube.com/watch?v=0U2wVNKgt1Y
+Video: https://www.youtube.com/watch?v=TL92toz45io
 
 
 ![](schematic1.jpg)
