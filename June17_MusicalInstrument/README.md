@@ -31,6 +31,9 @@ Video: https://www.youtube.com/watch?v=2oouv_yLE9w
 
 ![](104884724_3115256061853395_836413844354909050_n.jpg)
 
+
+![](106038404_290375358996672_43371593115091600_n.jpg)
+
 ## Dificulties:
 One of the difficulties that I encountered is reading the potentiometer in order to make the black notes on the keyboard (Do#, Re#, ...) because 4 push buttons is not enough to create 14 notes. 
 
