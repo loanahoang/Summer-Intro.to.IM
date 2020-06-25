@@ -55,15 +55,16 @@ Black note played:
 
 
 
-Schematic: 
-
-![](106038404_290375358996672_43371593115091600_n.jpg)
-
-
 Circuit is the same as before: 
 
 
 ![](104884724_3115256061853395_836413844354909050_n.jpg)
+
+
+
+Schematic: 
+
+![](106038404_290375358996672_43371593115091600_n.jpg)
 
 ## Dificulties:
 I encountered difficulties in drawing the circles when I pressed the button. My idea is whenever I play a note on Arduino, there will be a circle appear on the piano keyboard on the scree. I had to figure out how to make the circle disappear when the note is not played. My solution is creating boolean (explained in the code file). I apply this same concept on my final. 
