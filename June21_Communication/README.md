@@ -55,6 +55,11 @@ Black note played:
 
 
 
+Schematic: 
+
+![](106038404_290375358996672_43371593115091600_n.jpg)
+
+
 Circuit is the same as before: 
 
 
